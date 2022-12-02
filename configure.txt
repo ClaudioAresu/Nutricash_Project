@@ -1,0 +1,3 @@
+usuario=PEDRO_HENRIQUE
+senha=1030
+interface=sim
